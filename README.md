@@ -30,7 +30,7 @@ This website celebrates **Team India’s historic triumph in the 2026 ICC Men's 
 
 <p align="center">
 
-<img src="asstes/" width="1000"/>
+<img src="assets/image.png" width="1000"/>
 
 </p>
 
